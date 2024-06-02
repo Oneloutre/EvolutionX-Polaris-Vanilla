@@ -6,6 +6,7 @@
 <u><h1>Evolution X - Polaris</h1></u>
 EvolutionX for Xiaomi mi mix 2S  - Polaris
 
+<h2><u>THIS VERSION DOES NOT CONTAIN GAPPS. PLEASE VISIT MY OTHER REPO INSTEAD IF YOU WANT GAPPS.</u></h2>
 
 ---
 
