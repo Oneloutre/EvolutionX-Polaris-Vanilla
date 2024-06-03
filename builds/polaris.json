@@ -4,18 +4,18 @@
       "maintainer": "Onelots",
       "oem": "",
       "device": "Polaris",
-      "filename": "Coucou",
+      "filename": "EvolutionX-14.0-20240602-polaris-v9.0-Unofficial-vanilla.zip",
       "download": "",
-      "timestamp": 1717334485,
-      "md5": "",
-      "sha256": "",
-      "size": 1855852272,
+      "timestamp": 1717334487,
+      "md5": "552d0a5a591bb17ab25f902b881140fc",
+      "sha256": "76c514bab107c6ea6a272fd7bb4bc15fffc24c7d8102d6ddc69adf66e4899f42",
+      "size": 1263813290,
       "version": "9.0",
       "buildtype": "Vanilla",
       "forum": "",
       "firmware": "",
-      "paypal": "",
-      "telegram": "https://paypal.me/0nelots"
+      "paypal": "https://www.paypal.me/0nelots",
+      "telegram": "https://t.me/onelots"
     }
   ]
 }
